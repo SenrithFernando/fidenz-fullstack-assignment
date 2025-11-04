@@ -1,1 +1,0 @@
-# Fidenz Full Stack Assignment
